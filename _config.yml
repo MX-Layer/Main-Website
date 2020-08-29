@@ -30,7 +30,8 @@ remote_theme: pmarsceill/just-the-docs
 
 # Whitelisted plugins only!
 # GitHub Pages: https://pages.github.com/versions/
-# plugins:
+plugins:
+  - jekyll-redirect-from
   # - jekyll-feed
   # - jekyll-seo-tag
 

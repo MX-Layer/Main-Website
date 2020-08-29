@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# MX Layer
+# Sitemap
 {: .no_toc }
 
 The concept document for MX Layer website and subdomains.
